@@ -1,1 +1,1 @@
-# python-siteconnectivitychecker
+checks if site is connected
